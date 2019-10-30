@@ -3,7 +3,7 @@ bCRK_AMIP_CAM5_SW.tar.gz contains the monthly shortwave (SW) bCRKs, same CESM si
 
 Simulations are run using CESM version 1.2.2 and CAM5 with ISCCP simulator turned on;
 
-The bCRKs has a dimension of (y,x,i,j). The unit is Wm-2/%.
+The bCRKs has a dimension of (x,y,i,j). The unit is Wm-2/%.
 
 In these dataset,y=96,  x=144,  i=7, j=7;
 192 latitudes: -90:1.8947:90
