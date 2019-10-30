@@ -5,7 +5,7 @@ Simulations are run using CESM version 1.2.2 and CAM5 with ISCCP simulator turne
 
 The bCRKs has a dimension of (y,x,i,j). The unit is Wm-2/%.
 
-In these dataset,y=192,  x=288,  i=7, j=7;
+In these dataset,y=96,  x=144,  i=7, j=7;
 192 latitudes: -90:1.8947:90
 288 longitudes: 0:2.5:360
 7 CTP bins: 1100-800, 800-680, 680-560, 560-440, 440-310, 310-180, 180-50 hPa
